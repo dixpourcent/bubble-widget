@@ -424,7 +424,7 @@
     .dixpourcent-cta-button {
       width: 100%;
       border-radius: 55px;
-      background: rgba(255, 255, 255, 0.30);
+      background: #F946C7;
       color: white;
       border: none;
       padding: 14px 20px; 
@@ -515,6 +515,7 @@
 
     .dixpourcent-coupon-image {
       position: absolute;
+      width: 80%;
     }
 
     .dixpourcent-coupon-amount {
@@ -612,15 +613,21 @@
             </div>
 
             <div class="dixpourcent-coupon-footer">
+
               <div class="dixpourcent-coupon-footer-text">
                 Copie le ton code promo !
               </div>
+
               <div class="dixpourcent-code-promo-container">
                 <div class="dixpourcent-code-promo"></div>
                 <img alt="Copier" class="dixpourcent-copy-icon" id="dixpourcent-copy-icon"/>
               </div>
-              </div>
-    
+              
+              <button class="dixpourcent-cta-button">
+              Télécharge l'app maintentant !
+              </button>
+            </div>
+
           </div>
 
         </div>
