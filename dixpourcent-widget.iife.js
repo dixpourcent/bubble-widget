@@ -372,6 +372,7 @@
       justify-content: center;
       clip-path: polygon(0 0, 100% 0, 100% 100%);
       border: 5px solid #140B47;
+      box-sizing: content-box;
     }
 
     .dixpourcent-wheel-segment:nth-child(even) {
