@@ -268,7 +268,6 @@
     .dixpourcent-carousel {
       flex: 1;
       display: flex;
-      position: absolut;
     }
 
     .dixpourcent-carousel-track {
